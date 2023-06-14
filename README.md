@@ -2,11 +2,7 @@
   
 # TRAVEL.IT
 
-![Firebase Logo](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png)
-
-![Laravel Logo](https://laravel.com/img/logomark.min.svg)
-
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png)
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 
 
 </div>
