@@ -17,4 +17,4 @@ Melalui aplikasi Travelit, pengguna dapat dengan mudah menemukan informasi tenta
 <div align="center">
   
 # TRAVEL.IT Web View
-<img src="webtravel.png" />
+<img src="web.png" />
