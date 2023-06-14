@@ -10,9 +10,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="150" alt="React Logo">
   </a>
   <a href="https://firebase.google.com" target="_blank">
-    <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png" width="400" alt="Firebase Logo">
+    <img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-built_black.svg" width="400" alt="Firebase Logo">
   </a>
 </p>
+
 
 </div>
 
